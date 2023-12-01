@@ -22,5 +22,5 @@ TWRP for RMX3191 ( Realme C25 ) .
   ```
   - We are done .
   # Donate me
-  [![PayPal donate button](https://img.shields.io/badge/Donate-PayPal-blue)](https://paypal.me/MustafaHamedIQ)
+  [![PayPal donate button](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.me/mustafahamedIQ)
   
