@@ -12,7 +12,7 @@ TWRP for RMX3191 ( Realme C25 ) .
   ```
   fastboot devices
   ```
-  - for install TWTP ( You should put recovery.img in some folder Android-Tools or Drag and drop file )
+  - for install TWRP ( You should put recovery.img in some folder Android-Tools or Drag and drop file )
   ```
   fastboot flash recovery recovery.img
   ```
